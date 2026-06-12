@@ -1,0 +1,7 @@
+interface:
+  display_name: "Main Image Analysis Template"
+  short_description: "Analyze ecommerce main images for click-through"
+  default_prompt: "Use $main-image-analysis-template to analyze this product main image and produce a reusable improvement template."
+
+policy:
+  allow_implicit_invocation: true
